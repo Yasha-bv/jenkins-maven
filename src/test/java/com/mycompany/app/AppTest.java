@@ -38,7 +38,7 @@ public class AppTest
     
     
     @Test
-    public void shouldAnswerWithTrue4()
+    public int shouldAnswerWithTrue4()
     {
         assertTrue( true );
     }
